@@ -1,5 +1,5 @@
-# imersao-fullcycle
-
+## Aula 1 
+### Code bank - estudo de caso
 - O que iremos desenvolver?  
   - Um banco digital que disponibiliza cartões de crédito para clientes
   - O cliente realizará o checkout de um produto 
